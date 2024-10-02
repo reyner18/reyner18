@@ -6,7 +6,7 @@ Soy un ingeniero de software apasionado por hacer que el código abierto sea má
 Encuéntrame en la web 🌎:
 - Aprender en público en <a href="https://www.twitch.tv">Twitch</a> or <a href="https://www..">Drey.dev</a> 📹 ✍🏾
 - Experimentando con las interacciones <a href="https://codepen.io/pen/"> Codepen</a> 🏓
-- Compartir actualizaciones <a href="https://www.linkedin.com/in/julio-melendez-ramos-630a202a0/">LinkedIn</a> 💼
+- Compartir actualizaciones <a href="https://www.linkedin.com/in/reyner-flores-630a202a0/">LinkedIn</a> 💼
 
 
 ---
